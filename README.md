@@ -7,3 +7,12 @@ basit bir script.
 # Modüller
 
 selenium
+
+# Açıklama
+
+Linux sistemlerinde driver dosyaları çalıştırılabilir (executable) olmalıdır.
+
+$ chmod +x geckodriver -v
+
+yazmayı unutmayınız.
+
